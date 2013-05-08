@@ -1,0 +1,1 @@
+select Vehicle as Vehicle_License_Plate,StartDate,EndDate from rentals where gasin>=gasout+3;
